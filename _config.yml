@@ -25,6 +25,9 @@ primarylinks:
    url: https://www.researchgate.net/profile/Qazi-Mazhar
 
 #Any buzzword skills you want to include
+stackoverflow: Resume
+
+
 skills:
  
  - MATLAB
@@ -122,7 +125,7 @@ education:
 coursera: Awards
 
 #Stackoverflow flair is optional
-stackoverflow: Resume
+
 #   profileurl: https://stackoverflow.com/users/258813/rhinds
 #   flairimageurl: https://stackoverflow.com/users/flair/258813.png
 
